@@ -3,4 +3,3 @@ streamlit-folium
 geopandas
 folium
 pandas
-os
