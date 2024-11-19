@@ -15,9 +15,6 @@ st.subheader('대한민국 시군구 출생률 지도')
 
 ################################# map 코드
 
-## 디렉토리 설정
-os.chdir("/Users/wanghyeonjun/Downloads/workingspace")
-
 ## 시군구별 출생아수 데이터 불러오기
 df_birth = pd.read_csv("devided_birth.csv")
 
