@@ -1,5 +1,5 @@
 streamlit
-streamlit-folium
-geopandas
-folium
+altair
+plotly.express
 pandas
+json
